@@ -1,0 +1,5 @@
+package io.springboot.starter.hello;
+
+public class HelloController {
+
+}
